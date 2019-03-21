@@ -1,6 +1,8 @@
 # Amazon Fine Food Reviews
 Predicting sentiment analysis of customer's taste and preferences of fine food products.
 
+<img src="images/download.png" width="600" height="300">
+
 ## Table of Contents
 * [About](#about)
 * [Technologies](#technologies)
