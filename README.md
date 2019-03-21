@@ -21,5 +21,5 @@ We acquired the data from the website - https://www.kaggle.com/snap/amazon-fine-
 ## Conclusion
 Achieved 90% accuracy using a tuned random forest model that predicts customer taste as positive or negative.Visualized word cloud would save a lot of time going through all the reviews and will give high-level feedback about that product. This will help Amazon and Retailers understand the future trends and customer behaviour to the granular level. 
 
-## Contact
-Created by @cpathi - please feel free to contact me, thank you for your time!
+## Author
+Created by **Chakradhar Pathi* please feel free to contact me at cpathi@okstate.edu, thank you for your time!
