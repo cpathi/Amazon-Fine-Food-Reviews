@@ -14,9 +14,9 @@ Amazon is one of the biggest sellers of fine foods over its website and a consum
 We acquired the data from the website - https://www.kaggle.com/snap/amazon-fine-food-reviews
 
 ## Technologies
-1. Python (Numpy, Pandas, Sklearn, NLTK)
-2. R 
-3. PySpark
+* Python (Numpy, Pandas, Sklearn, NLTK)
+* R 
+* PySpark
 
 ## Conclusion
 Achieved 90% accuracy using a tuned random forest model that predicts customer taste as positive or negative.Visualized word cloud would save a lot of time going through all the reviews and will give high-level feedback about that product. This will help Amazon and Retailers understand the future trends and customer behaviour to the granular level. 
