@@ -7,7 +7,7 @@ Predicting sentiment analysis of customer's taste and preferences of fine food p
 * [About](#about)
 * [Technologies](#technologies)
 * [Conclusion](#conclusion)
-* [Contact](#contact)
+* [Author](#author)
 
 ## About
 Amazon is one of the biggest sellers of fine foods over its website and a consumer plays a major role for this industry and pleasing him would help you capture the market. A customer’s behaviour could also help us in understanding the necessity of the products and its future trends. Food reviews are one of the major sources for the Data Scientists in the companies to make conclusions over to what are trends in the present market. The goal of this project is to capture the feedback of the customer in terms of being positive or negative, this could help a vendor refine their products specifically for the requirement of a customer and make necessary changes to their product catalogue. These reviews can be categorized and can help us in deciding how a single change can improve the revenue which it could generate.
